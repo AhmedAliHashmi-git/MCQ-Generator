@@ -1,0 +1,5 @@
+hugging face 
+langchain
+streamlit
+python-dotenv
+PyPDF2
